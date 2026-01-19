@@ -198,7 +198,6 @@ Este archivo permite recrear la estructura y (si corresponde) datos de prueba en
 
   * **No se sube al repositorio** (contiene credenciales y configuración sensible).
 
----
 
 ## Notas de operación
 
