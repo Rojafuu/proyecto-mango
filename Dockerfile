@@ -28,5 +28,6 @@ RUN chown -R www-data:www-data storage bootstrap/cache
 
 EXPOSE 8080
 
-# Arranque simple (para entrega)
-CMD php artisan serve --host 0.0.0.0 --port 8080
+# Arranque 
+CMD ["sh", "start.sh"]
+
