@@ -33,10 +33,6 @@ Incluye flujo de solicitud, revisión del profesional y gestión de agenda/bloqu
 * Spatie Laravel Permission (roles)
 * Vite (assets)
 
-> Nota: en local puedes usar **MySQL o MariaDB** (XAMPP/WAMP). En hosting normalmente tendrás MySQL o MariaDB y se configura igual en `.env`.
-
----
-
 ## Requisitos (local)
 
 * PHP 8.2+
